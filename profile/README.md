@@ -6,6 +6,7 @@
 
 - [@jeremy776](https://github.com/jeremy776)
 - [@Equinear](https://github.com/Equinear)
+- [@VYRZZ](https://github.com/VYRZZ)
 
 ## Tech Stack
 *Some of the tech stacks that we will use in the project*
