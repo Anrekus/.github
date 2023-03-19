@@ -4,8 +4,8 @@
 
 ## Authors
 
-- [@jeremy776](https://www.github.com/jeremy776)
-
+- [@jeremy776](https://github.com/jeremy776)
+- [@Equinear](https://github.com/Equinear)
 
 ## Tech Stack
 *Some of the tech stacks that we will use in the project*
