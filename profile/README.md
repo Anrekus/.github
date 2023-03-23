@@ -11,7 +11,7 @@
 ## Tech Stack
 *Some of the tech stacks that we will use in the project*
 
-**Client:** React, Redux, TailwindCSS
+**Client:** React, TailwindCSS
 
 **Server:** Node, Express
 
