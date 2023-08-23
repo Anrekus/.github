@@ -13,7 +13,7 @@
 
 **Client:** React, TailwindCSS
 
-**Server:** Node, Express
+**Server:** NodeJS, Express, PHP
 
 
 ## Feedback
